@@ -8,6 +8,6 @@
                               __/ |
                              |___/ @ randrise.com    
 -------------------------------------------------
-          /valottery/powerball/pred/txt
+         /valottery/powerball/pred/d-txt
 -------------------------------------------------
 ```
